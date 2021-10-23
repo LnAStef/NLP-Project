@@ -12,7 +12,7 @@ mining, will be introduced for the purpose of relation extraction. The medical t
  <li>
   <i>.code/chemprot/chemprot prepration.ipynb</i> ->  code for CHEMPROT dataset preparation for the Task 1: Binary Relation Classification </li>
  <li>
-.code/corpus-to-graph-ml-master/Task 1 -> models.ipynb -> code for training the models and their evaluation for Task 1: Binary Relation Classification </li>
+  <i>.code/corpus-to-graph-ml-master/Task 1 - models.ipynb</i> -> code for training the models and their evaluation for Task 1: Binary Relation Classification </li>
  <li>
-.code/BERT-RE/Task 2.ipynb -> all code for CHEMPROT dataset preparation as well as model training and evaluation for Task 2: Relation Extraction and Type Classification </li>
+  <i>.code/BERT-RE/Task 2.ipynb</i> -> all code for CHEMPROT dataset preparation as well as model training and evaluation for Task 2: Relation Extraction and Type Classification </li>
  </ul>
